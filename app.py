@@ -55,7 +55,6 @@ def get_embeddings_from_bedrock(pdfText):
 embeddings = get_embeddings_from_bedrock(pdf_text)
 print(f"Embeddings: {embeddings}")
 
-##### -----------------------------------so far so good-------------------------------------- #####
 
 
 
